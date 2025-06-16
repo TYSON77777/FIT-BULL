@@ -47,7 +47,10 @@ FIT-BULL/
 
 ### 🏠 Home Page  
 
-![Home](screenshots/homepage.png)
+## 📸 Screenshot
+
+![FitBull](https://github.com/user-attachments/assets/2ad37746-42ce-411c-845c-7bada139bf37)
+
 
 ---
 
