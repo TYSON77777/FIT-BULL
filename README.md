@@ -43,11 +43,11 @@ FIT-BULL/
 └── .gitignore              # Git ignore rules
 ```
 ---
-## 📸 Screenshots
 
-### 🏠 Home Page  
 
-## 📸 Screenshot
+
+
+###📸 
 
 ![FitBull](https://github.com/user-attachments/assets/2ad37746-42ce-411c-845c-7bada139bf37)
 
